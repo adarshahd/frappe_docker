@@ -4,5 +4,6 @@
     {"url": "https://github.com/frappe/hrms","branch": "version-15"},
     {"url": "https://github.com/frappe/crm","branch": "main"},
     {"url": "https://github.com/frappe/helpdesk","branch": "main"},
-    {"url": "https://github.com/resilient-tech/india-compliance","branch": "version-15"}
+    {"url": "https://github.com/resilient-tech/india-compliance","branch": "version-15"},
+    {"url": "https://github.com/drzewkopl/WooCommerceConnector","branch": "master"}
 ]
